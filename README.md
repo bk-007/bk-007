@@ -22,7 +22,6 @@ Here are a couple of projects I've built using **Vibe Coding**:
 * **Web Development:** Vibe Coding (HTML, CSS, JavaScript)
 * **Programming Languages:** Python (Learning)
 * **Data Analytics:** Power BI (Learning)
-* [Add any other skills you have, e.g., Git, specific frameworks, etc.]
 
 **Let's Connect!**
 
